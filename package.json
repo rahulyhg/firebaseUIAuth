@@ -1,0 +1,28 @@
+{
+  "name": "firebaseuiauth",
+  "version": "1.0.0",
+  "description": "A wrapper for Google FirebaseUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zimaah/firebaseUIAuth.git"
+  },
+  "keywords": [
+    "google",
+    "firebase",
+    "firebaseui",
+    "auth"
+  ],
+  "author": "Zimaah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zimaah/firebaseUIAuth/issues"
+  },
+  "homepage": "https://github.com/zimaah/firebaseUIAuth#readme",
+  "dependencies": {
+    "firebaseui": "^3.5.2"
+  }
+}
