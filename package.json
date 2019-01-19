@@ -23,9 +23,7 @@
   },
   "homepage": "https://github.com/zimaah/firebaseUIAuth#readme",
   "dependencies": {
+    "firebase": "^5.8.0",
     "firebaseui": "^3.5.2"
-  },
-  "peerDependencies": {
-    "firebase": "^5.0.0"
   }
 }
